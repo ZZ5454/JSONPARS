@@ -1,11 +1,12 @@
 {
     "name": "John Doe",
-    "age": 25,
+    "age": 100,
     "city": "Seattle,WA",
     "interests": [
         "Sports",
         "Music",
-        "Movies"
+        "Movies",
+        "travel"
     ],
     "Student": true
 }
